@@ -93,3 +93,23 @@ form.login-form {
 .login-form button:hover {
   background-color: #3b79c9;
 }
+
+.change-color {
+  width: 148px;
+  height: 40px;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4a90e2;
+  border-radius: 8px;
+  border: 1px;
+  padding: 8px 16px;
+}
+
+.widget {
+  letter-spacing: 0.04em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
